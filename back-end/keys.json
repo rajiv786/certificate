@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "majestic-energy-383409",
+  "private_key_id": "b8d44e3cca35dbcd7c87eef194486e3f6216a648",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6tRtQtaqLp3/K\nAvj7bvEW4yRzXy5J2UGwTlxj81wb5dOkmk5TTjlQikpUv9HbitL/kDvTOiECcv3t\nEY3cLS0wa6XYcrsFLgcvTkMspE/sjJVH++c3PN0YYXNrFBvRChKKaZdrFzVL64HG\n26v0ewzoL0Qbaj+hg+obNGGYzpGXsKI9Y9Ye9TxKVIOgrSQySh68TE8jgZllF898\n1pcjIr2wwnyyhk3tppZ02jAM9l5mzqKG7goTd1frId4sUwvXMqvGg2xlVHzjS7+P\naICjsG+CpsAT5X4O361bzoijOuzY7W8Pxm9AJHh7Jzv0pHTEl/YzJiGfJms/C8Zz\nHtwDJJNvAgMBAAECggEAGO+xW0E4KvjPD3sAKAy0NHtX1fTjaMeUh2if3FWXer5i\nWvyk82liLEicDt+jtq++6JUp+FcuK3aSRYRvrvV1sJ7gAp2oLtPr77yDKkYzyoMo\nOPoC8pS1btktIiMIaA3xVf0uVQY/fwlQRu/18mww2B3f+c1h/D9zF/kSA+eq+FhL\nVT6ktXRyjyiz0kq9k2kMtv564w4YrV9clbar08Ga0/G70+OFzd3Gma8N9Jmwg/+1\n6N5uOa6Uhq3J6/ZTugkBCR25GLs8A8oIArUpPFxdQWHSzBVS6mZ94P7ooC/Fn8cU\nHFW161tb4sagyhmuStbaiIZrfV0V80S/DOYMc1/OKQKBgQDxEaMml6K5viylE6TJ\n+dGbPk2R4oDi2Ij/wc75iexnBvcnAm4Z/GTtk5ffi8B/2J9tannxc3/0DAPfXGfo\nqgZIYUYTaFM5jLiQXp7+hnRtSUHT8mrV0fazDXkazikx93zurlz0TONZ9EjAkpY6\nb6NrTcvP4TOpVCCOqD7RdXD/tQKBgQDGRYUjz/A1wY2mXguaS+5Yu0qUnTCvqYpl\neT7Y/KPLG/VmE8mndQbq9wdr3GJSUxk+3Nw+DtGRSOUQGsEtSQ3Ds+RmoidZpy27\nYS+kDgmgi9bsIi1x4CfSVxW17HSPwRnQ+TW0mCQ3S5H0eVoN3Gxx4OibKJh94OVb\n88n6iwDVEwKBgCccrnTPe2ZZdZLe6gifEKP4ast1jWXArhGY10TjXMimd6kLmuN6\ncMGfBbAOU5AqjEtLUDedfrAQ1vwBWRaFp3lM1vrFHWOj8jnyMCeplvA4R4bkuPKy\nGy2XzQNNWZ+ywMFU5t34L5bjrH4aCme2vzPkrmGu7xvU+2dJ4s9HF6tVAoGBAICV\n/6XdKpVCZOJbpby4t+hV9yVw2G1kT/xFaMwC9Rs5k6pS9PokfIsQEIEUWbO4buwF\nAtVAeQt3Mg+CunvrIAEm/t7NFSYgtRkMC4CjFf1IE+fqtnxe+pSAo/TrWCEPA/Yy\nWXE5JmuyGANsXEoXBUHJsjFGX7drjnRXJEvXsH9/AoGAb7l9q1atG4qJ8kuxbPjK\nEqtLLbW4hFNlQZYetFvHyXMN8oFkbF4ceQ7n6Z7cajMU1IUunADJh1HPz3spGQYI\n2AQZlTjjiNGq+ebPLBkMfVGmXRGNmXQnRJ5LgHzE4xcyR6tfEgtRFSzJ6rZL1Qfd\n6HtLpsIW/AV1t9vZaSq4IgE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nuvoicepress@majestic-energy-383409.iam.gserviceaccount.com",
+  "client_id": "102304602106562527324",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nuvoicepress%40majestic-energy-383409.iam.gserviceaccount.com"
+}
