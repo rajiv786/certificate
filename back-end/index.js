@@ -7,7 +7,7 @@ app.use(cors({}));
 
 app.get('/api/generate-pdf', async(req, res) => {
   // Load the PNG image as a base64-encoded string
-  const userData = await User.findById(req.body.user._id)
+ 
   const backgroundImage = base64Img.base64Sync('./check1.png');
 const images= base64Img.base64Sync('./rajiv.png')
   // Create a new PDF document
@@ -104,7 +104,7 @@ app.get('/api/generate-pdfG', async(req, res) => {
 	doc.setTextColor('#000000'); // Set the text color to white
 	doc.text('Certificate of Completion', doc.internal.pageSize.width / 2, 100, { align: 'center' });
 	doc.setFontSize(16);
-	  text = `This is to certify that ${req.body.user1.name} successfully completed the course Writing Skills by Kevin Missal from Hubhawks MasterClass`
+	  text = `This is to certify that  successfully completed the course Writing Skills by Kevin Missal from Hubhawks MasterClass`
 	  const lines = doc.splitTextToSize(text, doc.internal.pageSize.width/1.35 , { align: 'center' });
 	  doc.text(lines, 50, 150);
 	doc.setFontSize(12);
